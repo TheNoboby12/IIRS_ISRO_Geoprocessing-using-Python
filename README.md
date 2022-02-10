@@ -5,7 +5,7 @@ I Learned Many New things as follows:-
 
 - Fundamentals Of Geographic Information System and Remote Sensing
 
--Introduction to Anaconda, Jupyter Notebook and Overview of Python
+- Introduction to Anaconda, Jupyter Notebook and Overview of Python
 
 - Numpy and Matplotlib Libraries 
 
